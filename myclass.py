@@ -8,3 +8,5 @@ class Person:
     def sing(self):
         return f"{self.name} is singing &&"
         
+    def walk(self):
+        return f"{self.name} is walking - Tak Tak Tak"
