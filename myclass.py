@@ -5,3 +5,6 @@ class Person:
         self.native = native
         self.items = []
         
+    def sing(self):
+        return f"{self.name} is singing &&"
+        
