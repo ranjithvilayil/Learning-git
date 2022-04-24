@@ -10,3 +10,6 @@ class Person:
         
     def walk(self):
         return f"{self.name} is walking - Tak Tak Tak"
+    
+    def speak(self):
+        return f"{self.name} speaking!"
