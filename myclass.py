@@ -13,4 +13,8 @@ class Person:
     
     def speak(self):
         return f"{self.name} speaking!"
+    
+    def drive_car(self):
+        return f"{self.name} drive a car"
+    
 p = Person("ranjith", "bangalore", "kerala")
