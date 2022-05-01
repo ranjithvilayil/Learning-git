@@ -13,3 +13,4 @@ class Person:
     
     def speak(self):
         return f"{self.name} speaking!"
+p = Person("ranjith", "bangalore", "kerala")
